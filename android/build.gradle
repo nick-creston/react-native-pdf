@@ -52,6 +52,6 @@ android {
 
 dependencies {
     implementation "com.facebook.react:react-native:${_reactNativeVersion}"
-    implementation 'c:master-SNAPSHOT'
+    implementation 'github.com:grizzly:AndroidPdfViewer:master-SNAPSHOT'
     implementation 'com.google.code.gson:gson:2.8.5'
 }
